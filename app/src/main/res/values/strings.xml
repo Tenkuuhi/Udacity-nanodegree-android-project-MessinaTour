@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Messina Tour</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="point_title">Title</string>
+    <string name="point_info">Info</string>
+    <string name="action_search">Search</string>
+    <string name="default_text_view">default_text_view</string>
+    <string name="project_5">Project 5</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="location">Locations</string>
+    <string name="night_club">Night Clubs</string>
+    <string name="event">Events</string>
+    <string name="agostiniana">Agostiniana</string>
+    <string name="info_agostiniana">Principale seafood restaurant</string>
+    <string name="terrazza">Terrazza</string>
+    <string name="info_terrazza">Principale restaurant with view</string>
+    <string name="duomo">Duomo</string>
+    <string name="info_duomo">Principale church of Messina</string>
+    <string name="piazza_cairoli">Piazza Cairoli</string>
+    <string name="info_piazza_cairoli">Principale square of Messina</string>
+    <string name="mama">Mama</string>
+    <string name="info_mama">NightClub on the Beach</string>
+    <string name="officina">Officina</string>
+    <string name="info_officina">NightClub on Messina centre</string>
+    <string name="vara">Vara</string>
+    <string name="info_vara">Procession Immaculate Conception August 15th</string>
+    <string name="fireworks">FireWorks</string>
+    <string name="info_fireworks">Fireworks show August 15th</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
